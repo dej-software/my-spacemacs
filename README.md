@@ -3,4 +3,4 @@
 
 **安装：**
 
-    git clone https://github.com/dej-software/my-spacemacs ./.spacemacs.d
+    git clone https://github.com/dej-software/my-spacemacs ~/.spacemacs.d
